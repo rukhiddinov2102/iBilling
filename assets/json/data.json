@@ -1,0 +1,187 @@
+{
+    "users_count": 15,
+    "users": [
+        {
+            "id": 0,
+            "name": "Aziz Safarov",
+            "amount": "1,500,666",
+            "last_invoice": 256,
+            "number_of_invoice": 5,
+            "data": "01.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"100",
+            "status":"paid"
+            
+
+        },
+        {
+            "id": 1,
+            "name": "Umid Rukhiddinov",
+            "amount": "1,600,666",
+            "last_invoice": 426,
+            "number_of_invoice": 5,
+            "data": "01.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"101",
+            "status":"Rejected Payme"
+        },
+        {
+            "id": 2,
+            "name": "Oybek Soliev",
+            "amount": "1,700,777",
+            "last_invoice": 101,
+            "number_of_invoice": 5,
+            "data": "01.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"102",
+            "status":"Rejected IQ"
+        },
+        {
+            "id": 3,
+            "name": "Xurshid Ismoilov",
+            "amount": "1,800,888",
+            "last_invoice": 105,
+            "number_of_invoice": 5,
+            "data": "02.08.2021",
+            "Adress":"Tashkent shahar  Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"103",
+            "status":"In process"
+        },
+        {
+            "id": 4,
+            "name": "Umar Khabiliy",
+            "amount": "1,900,999",
+            "last_invoice": 108,
+            "number_of_invoice": 5,
+            "data": "02.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"104",
+            "status":"paid"
+        },
+        {
+            "id": 5,
+            "name": "Ilhom Mirhaitov",
+            "amount": "2,100,111",
+            "last_invoice": 109,
+            "number_of_invoice": 5,
+            "data": "03.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"105",
+            "status":"paid"
+        },
+        {
+            "id": 6,
+            "name": "Abdulloh Abduhalilov",
+            "amount": "2,200,222",
+            "last_invoice": 192,
+            "number_of_invoice": 5,
+            "data": "03.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"106",
+            "status":"In process"
+        },
+        {
+            "id": 7,
+            "name": "John Alijonov",
+            "amount": "2,300,333",
+            "last_invoice": 175,
+            "number_of_invoice": 5,
+            "data": "03.08.2021",
+            "Adress":"CTashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"107",
+            "status":"paid"
+        },
+        {
+            "id": 8,
+            "name": "Stefano Uzbekskiy",
+            "amount": "2,400,444",
+            "last_invoice": 138,
+            "number_of_invoice": 5,
+            "data": "03.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"108",
+            "status":"paid"
+        },
+        {
+            "id": 9,
+            "name": "Tesha Boltayev",
+            "amount": "2,500,555",
+            "last_invoice": 132,
+            "number_of_invoice": 5,
+            "data": "19.05.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"109",
+            "status":"paid"
+        },
+        {
+            "id": 10,
+            "name": "Json Data ogli",
+            "amount": "2,600,666",
+            "last_invoice": 168,
+            "number_of_invoice": 5,
+            "data": "04.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"110",
+            "status":"paid"
+        },
+        {
+            "id": 11,
+            "name": "Zilola Musayeva",
+            "amount": "2,000,666",
+            "last_invoice": 169,
+            "number_of_invoice": 6,
+            "data": "05.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"110",
+            "status":"Rejected Payme"
+        },
+        {
+            "id": 12,
+            "name": "Doniyor Adhamov",
+            "amount": "2,100,666",
+            "last_invoice": 170,
+            "number_of_invoice": 7,
+            "data": "05.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"110",
+            "status":"paid"
+        },
+        {
+            "id": 13,
+            "name": "Json Data ogli",
+            "amount": "2,600,666",
+            "last_invoice": 171,
+            "number_of_invoice": 8,
+            "data": "20.05.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"110",
+            "status":"Rejected Payme"
+        },
+        {
+            "id": 14,
+            "name": "Umid Rukhiddinov",
+            "amount": "2,200,666",
+            "last_invoice": 172,
+            "number_of_invoice": 9,
+            "data": "05.08.2021",
+            "Adress":"Tashkent shahar Chilonzor 9 Cho'ponota ko'chasi 21",
+            "INN":"5677250318",
+            "count":"110",
+            "status":"paid"
+        }
+    ]
+}
